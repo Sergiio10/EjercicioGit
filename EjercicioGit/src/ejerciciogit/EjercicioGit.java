@@ -7,7 +7,7 @@ package ejerciciogit;
 
 /**
  *
- * @author dam
+ * @author Sergio Delgado
  */
 public class EjercicioGit {
 
