@@ -17,6 +17,7 @@ public class EjercicioGit {
     public static void main(String[] args) {
         System.out.println("Primera línea de visualización");
         System.out.println("Segunda línea de visualización");
+        System.out.println("Líneas en el método main");
     }
     
 }
